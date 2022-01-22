@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="223f8a65-d98f-4886-b988-8fbac22d6461" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23tuo7J5D7IqAmAYX3yD0XrDqOp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="223f8a65-d98f-4886-b988-8fbac22d6461" name="Default Changelist" comment="" />
+      <created>1642565876109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642565876109</updated>
+      <workItem from="1642565877194" duration="12815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1956" y="0" width="980" height="1016" maximized="true" key="dock-window-1" timestamp="1642828345959">
+      <screen x="1920" y="0" width="1504" height="963" />
+    </state>
+    <state x="1956" y="0" width="980" height="1016" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1504.963@0.0.1920.1040" timestamp="1642828345959" />
+    <state x="1117" y="75" width="585" height="888" key="find.popup" timestamp="1642828798086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1117" y="75" width="585" height="888" key="find.popup/0.0.1920.1040/1920.0.1504.963@0.0.1920.1040" timestamp="1642828798086" />
+  </component>
+</project>
